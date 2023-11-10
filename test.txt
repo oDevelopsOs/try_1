@@ -1,2 +1,28 @@
-hello como eta
-hola aquetal tu 
+
+# LINEA DE COMANDOS LINUX
+
+
+usuarios root : Son usuarios que tienen muchos mas privilegios tenemos un comando para ello :
+sudo su
+
+clear, para limpiar.
+
+sudo apt install , es para instalar algun paquete.
+
+sudo apt remove , es para desinstalar algun paquete.
+
+sudo apt autoremove, se aconseja usarlo despus del comando de arriba ya que sirve para limpiar todos los residuos que deja una eliminacion de un paquete.
+
+pwd, para saber donde estamos ubicados.
+
+rm , es para eliminar un archivo para que funcione tienes que estar en le mismo directorio , por ejemplo esta en desktop ahi podras borrar cualquier archivo con re nombreArchivo
+
+touch, sirve para crear un archivo o fichero etc , touch hola.py
+
+nano , es un editor de texto plano que opera dentro del comando linux
+
+cat , para ver el contenido de algo , principalmete cuando es en texto plano.
+
+mkdir , es para crear carpetas.
+
+rm -r , esto lo que hace es eliminar la carpeta y todo lo que hay dentro.
